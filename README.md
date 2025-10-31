@@ -1,0 +1,1 @@
+THis interactive dashboard help us to get the insight of the company . It help us to understand various factors like full time worker or par time worker and many sugh great insight from a uncleaned dataset.
